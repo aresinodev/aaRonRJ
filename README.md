@@ -22,12 +22,12 @@ I'm a Frontend developer
 
 ### My social networks:
 
-<a href="https://www.linkedin.com/in/aaronrj/" target="_blank" style="margin-right: 4px">
+<a href="https://www.linkedin.com/in/aaronrj/" target="_blank" style="margin-right: 20px; text-decoration: none">
   <img alt="Linkedin" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-<a href="https://twitter.com/aaronresino_7" target="_blank" style="margin-right: 4px">
+<a href="https://twitter.com/aaronresino_7" target="_blank" style="margin-right: 20px; text-decoration: none">
   <img alt="Twitter" width="26px" src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-8.png" />
 </a>
-<a href="https://www.instagram.com/aaronresino_7/" target="_blank">
+<a href="https://www.instagram.com/aaronresino_7/" target="_blank" style="text-decoration: none">
   <img alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
