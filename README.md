@@ -23,5 +23,5 @@ I'm a Frontend developer
 ### My social networks:
 
 <a align="left" href="https://www.linkedin.com/in/aaronrj/" target="_blank"><img alt="Linkedin" width="26px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" /></a>
-<a align="left" href="https://twitter.com/aaronresino_7" target="_blank"><img alt="Twitter" width="26px" src="https://i.pinimg.com/564x/74/e1/88/74e1888bcc1120ff17783d4bbab4ab05.jpg" /></a>
+<a align="left" href="https://twitter.com/aaronresino_7" target="_blank"><img alt="Twitter" width="26px" src="https://w7.pngwing.com/pngs/872/50/png-transparent-computer-icons-social-media-logo-twitter-social-media-blue-logo-social-media-thumbnail.png" /></a>
 <a align="left" href="https://www.instagram.com/aaronresino_7/" target="_blank"><img alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
