@@ -2,7 +2,7 @@
 
 I'm a Frontend developer
 
-- 🔭 I’m currently working on WPO, PWA and Webcomponents
+- 🔭 I’m currently working on PWA and Webcomponents
 - 🌱 I’m currently learning React, NodeJS and Python.
 - 📫 Contact me: aresinodeveloper@gmail.com
 
