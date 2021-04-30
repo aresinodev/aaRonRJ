@@ -22,7 +22,7 @@ I'm a Frontend developer
 
 ### My social networks:
 
-<a href="https://www.linkedin.com/in/aaronrj/" target="_blank" style="margin-right: 20px; text-decoration: none">
+<a href="https://www.linkedin.com/in/aaronrj/" target="_blank" style="margin-right: 100px; text-decoration: none">
   <img alt="Linkedin" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://twitter.com/aaronresino_7" target="_blank" style="margin-right: 20px; text-decoration: none">
