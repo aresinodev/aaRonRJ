@@ -21,7 +21,7 @@ I'm a Frontend developer
 <br/>
 
 ### My social networks:
-<p align="left" width="100%">
+
 <a href="https://www.linkedin.com/in/aaronrj/" target="_blank" style="margin-right: 100px; text-decoration: none">
   <img alt="Linkedin" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
@@ -31,4 +31,3 @@ I'm a Frontend developer
 <a href="https://www.instagram.com/aaronresino_7/" target="_blank" style="text-decoration: none">
   <img alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
-</p>
